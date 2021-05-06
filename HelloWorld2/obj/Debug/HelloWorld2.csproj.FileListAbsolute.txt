@@ -1,0 +1,6 @@
+/Users/moe/Projects/HelloWorld2/HelloWorld2/bin/Debug/HelloWorld2.exe
+/Users/moe/Projects/HelloWorld2/HelloWorld2/bin/Debug/HelloWorld2.pdb
+/Users/moe/Projects/HelloWorld2/HelloWorld2/obj/Debug/HelloWorld2.csprojAssemblyReference.cache
+/Users/moe/Projects/HelloWorld2/HelloWorld2/obj/Debug/HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/moe/Projects/HelloWorld2/HelloWorld2/obj/Debug/HelloWorld2.exe
+/Users/moe/Projects/HelloWorld2/HelloWorld2/obj/Debug/HelloWorld2.pdb
